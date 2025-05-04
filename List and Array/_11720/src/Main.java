@@ -13,6 +13,8 @@ public class Main {
             sum+=cNum[i]-'0';
         }
 
+
+
         System.out.println(sum);
     }
 }
